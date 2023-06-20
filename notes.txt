@@ -1,0 +1,11 @@
+Hero Image - 720*600 
+Hero Text - Word 35
+
+Testimonials Image - 107*107
+Testimonials Text - Word 30
+
+Gallery Image 500*300 X 4 | 600*360 X 2
+Gallery Text - Word 30
+
+Services Text - Word 10
+Services Icons
